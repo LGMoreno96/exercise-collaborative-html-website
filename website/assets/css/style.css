@@ -1,3 +1,24 @@
 body{
     background: #BDBDBD;
 }
+.tagline {
+    background-image: url(https://media.istockphoto.com/photos/downtown-new-york-skyline-panorama-from-liberty-state-park-usa-picture-id523621110?k=20&m=523621110&s=170667a&w=0&h=XkVwSWrrRrsNbGEl5nl8ncbMaX2SksA5JqXfIuoFSW8=);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 400px;
+    margin: auto;
+}
+.tagline h1 {
+    font-size: 2.5rem;
+    background-color: whitesmoke;
+    width: 100%;
+}
+.tagline h2 {
+    background-color: whitesmoke;
+    width: 100%;
+}
+.tagline .container {
+    padding-top: 20px;
+    justify-content: center;
+    text-align: center;
+}
