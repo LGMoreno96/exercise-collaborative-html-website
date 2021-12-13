@@ -41,3 +41,27 @@ body{
     margin: auto;
     background-color: #BDBDBD;
 }
+.media{
+    width: 450px;
+    margin: auto;
+    background-color: white;
+}
+.media p{
+    font-size: 10px;
+}
+.media-body {
+    justify-content: center;
+    padding-top: 30px;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+.media img{
+    border-radius: 80%;
+    height: 100px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.titulofh{
+    margin-left: 4px;
+}
